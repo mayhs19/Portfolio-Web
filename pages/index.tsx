@@ -4,7 +4,7 @@ import PageLayout from "components/layout/pageLayout";
 
 export default function Index({ projects }) {
   return (
-    <PageLayout title="Muhammad Ahmad - Full Stack Developer">
+    <PageLayout title="Shyam Sunder VR - Full Spectrum Contributor">
       <Home projects={projects} />
     </PageLayout>
   );

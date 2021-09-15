@@ -8,7 +8,7 @@ type Props = {
   };
 
 const Meta = ({ title, keywords, description, image } : Props): JSX.Element => {
-  title = title.includes('Ahmad') ? title : title.concat(' | Muhammad Ahmad')
+  title = title.includes('Shyam') ? title : title.concat(' | Shyam Sunder VR')
   return (
     <Head>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,9 +23,9 @@ const Meta = ({ title, keywords, description, image } : Props): JSX.Element => {
 };
 
 Meta.defaultProps = {
-  title: "Muhammad Ahmad - Full Stack Developer",
-  keywords: "web development, programming, web design",
-  description: "Software Engineer. Lover of web and opensource."
+  title: "Shyam Sunder VR - Full Spectrum Contributor",
+  keywords: "api development, web development, programming",
+  description: "Software Individual Contributor. Get more with less code."
 };
 
 export default Meta;

@@ -8,12 +8,12 @@ import {
 import { FiMail } from "react-icons/fi";
 
 const siteConfig = {
-  copyright: `Copyright © ${new Date().getFullYear()} Muhammad Ahmad. All Rights Reserved.`,
+  copyright: `Copyright © ${new Date().getFullYear()} Shyam Sunder VR. All Rights Reserved.`,
   author: {
-    name: "Muhammad Ahmad",
+    name: "Shyam Sunder VR",
     accounts: [
       {
-        url: "https://github.com/MA-Ahmad",
+        url: "https://github.com/mayhs19",
         label: "Github Account",
         type: "gray",
         icon: <FaGithub />

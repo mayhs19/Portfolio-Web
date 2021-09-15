@@ -78,23 +78,23 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
           <Box as="h2" fontSize="2xl" fontWeight="400" textAlign="left">
             My name is{" "}
             <Box as="strong" fontWeight="600">
-              Ahmad
+              Shyam
             </Box>{" "}
             and I&apos;m a{" "}
             <Box as="span" whiteSpace="nowrap">
-              Full Stack Developer and
+              Full Spectrum Contributor and
             </Box>{" "}
             <Box as="span" whiteSpace="nowrap">
-              an open source lover&nbsp;
+              a low-code magician&nbsp;
             </Box>
             from{" "}
             <Box as="span" whiteSpace="nowrap">
-              Pakistan 🇵🇰
+              India 
             </Box>
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
-            This is my digital garden, where I write about the things I&apos;m
-            working on and share what I&apos;ve learned. 😊
+            This is my u2opia, where I share my thoughts and my work speaks 
+            through this universe. 
           </Box>
         </MotionFlex>
       </Flex>
